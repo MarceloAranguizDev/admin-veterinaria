@@ -1,1 +1,1 @@
-https://admin-veterinari-vue.netlify.app/
+https://admin-veterinara-vuejs.netlify.app/
