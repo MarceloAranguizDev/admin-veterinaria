@@ -1,0 +1,1 @@
+https://admin-veterinari-vue.netlify.app/
